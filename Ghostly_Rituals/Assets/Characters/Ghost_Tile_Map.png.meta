@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1e5d4be9e40df3941804920a7ab23002
+guid: aa43eff3d842ea54fa6aec64f74267eb
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -132,8 +132,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,10 +151,10 @@ TextureImporter:
       name: Ghost_Tile_Map_1
       rect:
         serializedVersion: 2
-        x: 104
+        x: 208
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,10 +172,10 @@ TextureImporter:
       name: Ghost_Tile_Map_2
       rect:
         serializedVersion: 2
-        x: 208
+        x: 416
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,10 +193,10 @@ TextureImporter:
       name: Ghost_Tile_Map_3
       rect:
         serializedVersion: 2
-        x: 312
+        x: 624
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,10 +214,10 @@ TextureImporter:
       name: Ghost_Tile_Map_4
       rect:
         serializedVersion: 2
-        x: 416
+        x: 832
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: Ghost_Tile_Map_5
       rect:
         serializedVersion: 2
-        x: 520
+        x: 1040
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: Ghost_Tile_Map_6
       rect:
         serializedVersion: 2
-        x: 624
+        x: 1248
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +277,10 @@ TextureImporter:
       name: Ghost_Tile_Map_7
       rect:
         serializedVersion: 2
-        x: 728
+        x: 1456
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,10 +298,10 @@ TextureImporter:
       name: Ghost_Tile_Map_8
       rect:
         serializedVersion: 2
-        x: 832
+        x: 1664
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,10 +319,10 @@ TextureImporter:
       name: Ghost_Tile_Map_9
       rect:
         serializedVersion: 2
-        x: 936
+        x: 1872
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: Ghost_Tile_Map_10
       rect:
         serializedVersion: 2
-        x: 1040
+        x: 2080
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,10 +361,10 @@ TextureImporter:
       name: Ghost_Tile_Map_11
       rect:
         serializedVersion: 2
-        x: 1144
+        x: 2288
         y: 0
-        width: 104
-        height: 80
+        width: 208
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
