@@ -7,13 +7,14 @@ public class SideMove : MonoBehaviour
     public float accel = 8;
     private Rigidbody2D rb2;
     private SpriteRenderer sr;
+    private Animator an;
 
     // Start is called before the first frame update
     void Start()
     {
         rb2 = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
-
+        an = GetComponent<Animator>();
     }
 
     private void FixedUpdate()
@@ -30,6 +31,16 @@ public class SideMove : MonoBehaviour
         {
             sr.flipX = true;
             rb2.AddForce(new Vector2(-accel, 0));
+        }
+
+        float x = Input.GetAxis("Horizontal");
+        if (x != 0)
+        {
+            an.SetBool(". . .", true);
+        }
+        else
+        {
+            an.SetBool(". . .", false);
         }
     }
 }
