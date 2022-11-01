@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Jump : MonoBehaviour
 {
-    public float JumpStrength = 400;
+    public float JumpStrength = 475;
     public bool grounded;
     private Rigidbody2D rb2;
 
@@ -31,18 +31,5 @@ public class Jump : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         grounded = false;
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        Debug.Log(collision.tag);
-        if (collision.tag == "SuperJump")
-        {
-            JumpStrength = 800;
-        }
-        else
-        {
-            JumpStrength = 400;
-        }
     }
 }

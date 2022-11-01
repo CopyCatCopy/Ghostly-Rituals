@@ -66,6 +66,5 @@ public class ShipMovement : MonoBehaviour
             bulletCount = 10;
             AmmoMask.GetComponent<MaskScript>().MoveMask(bulletCount, 10);
         }
-
     }
 }

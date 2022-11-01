@@ -33,6 +33,7 @@ public class TargetStats : MonoBehaviour
             health--;
             xp++;
             theShip.GetComponent<ShipMovement>().xp += xp;
+           
             if(health < 1)
             {
                 Destroy(this.gameObject);
