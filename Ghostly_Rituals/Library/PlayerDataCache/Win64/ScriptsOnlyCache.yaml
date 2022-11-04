@@ -26,7 +26,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.IK.IKEditorManager
     - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
-    - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
@@ -79,17 +78,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1502}
     - Class: 114
-      Script: {instanceID: 1590}
+      Script: {instanceID: 1542}
     - Class: 114
-      Script: {instanceID: 2864}
+      Script: {instanceID: 2816}
     - Class: 114
-      Script: {instanceID: 3044}
+      Script: {instanceID: 2996}
     - Class: 114
-      Script: {instanceID: 3300}
+      Script: {instanceID: 3252}
     - Class: 114
-      Script: {instanceID: 5088}
+      Script: {instanceID: 5040}
     - Class: 114
-      Script: {instanceID: 5390}
+      Script: {instanceID: 5342}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -140,15 +139,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 662}
     - Class: 114
-      Script: {instanceID: 2824}
+      Script: {instanceID: 2776}
     - Class: 114
-      Script: {instanceID: 4020}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 4602}
+      Script: {instanceID: 4554}
     - Class: 114
-      Script: {instanceID: 5752}
+      Script: {instanceID: 5704}
     - Class: 114
-      Script: {instanceID: 6078}
+      Script: {instanceID: 6030}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -199,19 +198,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 662}
     - Class: 114
-      Script: {instanceID: 1590}
+      Script: {instanceID: 1542}
     - Class: 114
-      Script: {instanceID: 1680}
+      Script: {instanceID: 1632}
     - Class: 114
-      Script: {instanceID: 2952}
+      Script: {instanceID: 2904}
     - Class: 114
-      Script: {instanceID: 3024}
+      Script: {instanceID: 2976}
     - Class: 114
-      Script: {instanceID: 4740}
+      Script: {instanceID: 4692}
     - Class: 114
-      Script: {instanceID: 4956}
+      Script: {instanceID: 4908}
     - Class: 114
-      Script: {instanceID: 5910}
+      Script: {instanceID: 5862}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -262,21 +261,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1502}
     - Class: 114
-      Script: {instanceID: 1868}
+      Script: {instanceID: 1820}
     - Class: 114
-      Script: {instanceID: 2132}
+      Script: {instanceID: 2084}
     - Class: 114
-      Script: {instanceID: 2864}
+      Script: {instanceID: 2816}
     - Class: 114
-      Script: {instanceID: 3044}
+      Script: {instanceID: 2996}
     - Class: 114
-      Script: {instanceID: 3300}
+      Script: {instanceID: 3252}
     - Class: 114
-      Script: {instanceID: 3548}
+      Script: {instanceID: 3500}
     - Class: 114
-      Script: {instanceID: 4410}
+      Script: {instanceID: 4362}
     - Class: 114
-      Script: {instanceID: 5194}
+      Script: {instanceID: 5146}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1518,4 +1517,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Scene2/Level2.unity
   - Assets/Scenes/Scene3/Level3.unity
   - Assets/Scenes/Scene4/EndGame.unity
-  playerPath: E:/VGD/Celeste/Builds/MMMSMP/Ghostly_Rituals.exe
+  playerPath: C:/Users/copyc/OneDrive/Desktop/Builds/MMMSMP/Ghostly_Rituals.exe
